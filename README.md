@@ -17,7 +17,7 @@ numpy
 
 
 
-### Test Result
+### Results in Given Dataset
 
 | Policy                            | Nearest | Farthest | Score | Ranking | Dataset |
 | --------------------------------- | ------- | -------- | ----- | ------- | ------- |
@@ -28,3 +28,6 @@ numpy
 |                                   |         |          |       |         |         |
 |                                   |         |          |       |         |         |
 
+### Competition Results
+* Last but on in first 400 rounds
+* Third in second 400 rounds after a few revises.
