@@ -1,16 +1,16 @@
 ## Gold Point Game
 
-###Game Rules:
+### Game Rules:
 There are several bots which output two real numbers limited to (0,100) range. Every round a gold number is computed by computing the mean of all numbers multiplied by 0.618. The team who submits the nearest number get scores. The team who submits the most further number deducts two points. After a certain rounds, the team who gets highest score wins the game.
 Detailed rules are in [Gold Number](https://edu.cnblogs.com/campus/ustc/InnovatingLeadersClass/homework/2231)
 
 
 
 
-####environment:
+#### environment:
 Python 3.6
 
-####package dependency:
+#### package dependency:
 numpy
 
 
