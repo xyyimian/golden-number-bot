@@ -38,3 +38,4 @@ numpy
 ### Competition Results
 * Last but one in first 400 rounds
 * Third in second 400 rounds after a few revises.
+* Comprehensive Results: Last but two
