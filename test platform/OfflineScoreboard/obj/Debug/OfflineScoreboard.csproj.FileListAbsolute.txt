@@ -1,0 +1,46 @@
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\Data\SecondData.txt
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\TestScript\get_numbers.jl
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\TestScript\get_numbers.py
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\Data\FirstData.txt
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\OfflineScoreboard.exe.config
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\OfflineScoreboard.exe
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\OfflineScoreboard.pdb
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\Bot.exe
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\Bot.pdb
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\bin\Debug\Bot.exe.config
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.csprojAssemblyReference.cache
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\MainWindow.g.cs
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\App.g.cs
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard_MarkupCompile.cache
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard_MarkupCompile.lref
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\MainWindow.baml
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.g.resources
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.Properties.Resources.resources
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.csproj.GenerateResource.cache
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.csproj.CoreCompileInputs.cache
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.csproj.CopyComplete
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.exe
+D:\ASE\golden point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.pdb
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\Data\SecondData.txt
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\TestScript\get_numbers.jl
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\TestScript\get_numbers.py
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\Data\FirstData.txt
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\OfflineScoreboard.exe.config
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\OfflineScoreboard.exe
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\OfflineScoreboard.pdb
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\Bot.exe
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\Bot.pdb
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\bin\Debug\Bot.exe.config
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.csprojAssemblyReference.cache
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\MainWindow.g.cs
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\App.g.cs
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard_MarkupCompile.cache
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard_MarkupCompile.lref
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\MainWindow.baml
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.g.resources
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.Properties.Resources.resources
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.csproj.GenerateResource.cache
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.csproj.CoreCompileInputs.cache
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.csproj.CopyComplete
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.exe
+D:\ASE\golden_point\student\student\Player\OfflineScoreboard\obj\Debug\OfflineScoreboard.pdb
